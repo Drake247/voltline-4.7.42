@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: voltline
+    env: static
+    buildCommand: ""
+    staticPublishPath: .
